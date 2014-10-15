@@ -3,7 +3,7 @@ Odzyskiwanie danych w ext3
 :date: 2009-03-09 16:38
 :author: Hrv
 :category: Linux
-:tags: ext3, odzyskiwanie danych, restore
+:tags: ext3, restore
 :slug: odzyskiwanie-danych-w-ext3
 
 Na wstępie chciałem zaznaczyć, że nie czuję się mega ekspertem w

@@ -2,7 +2,7 @@ Montowanie dysków sieciowych z autoryzacją na Memo
 ##################################################
 :date: 2009-01-23 20:55
 :author: Hrv
-:tags: maemo, NFS, samba
+:tags: maemo,samba
 :slug: montowanie-dyskow-sieciowych-z-autoryzacja-na-memo
 
 Używając tabletu internetowego w domu, często przewijał się problem z

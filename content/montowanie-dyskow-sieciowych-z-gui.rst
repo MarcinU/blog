@@ -2,7 +2,7 @@ Montowanie dysków sieciowych z GUI
 ##################################
 :date: 2009-01-28 16:52
 :author: Hrv
-:tags: maemo, NFS, samba
+:tags: maemo, samba
 :slug: montowanie-dyskow-sieciowych-z-gui
 
 Aż dziw bierze, że nikt nie ochrzanił mnie za marny research przed

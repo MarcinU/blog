@@ -30,6 +30,9 @@ DEFAULT_PAGINATION = 6
 
 ARTICLE_URL = '/blog/{slug}.html'
 #ARTICLE_URL = '/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+CATEGORY_URL = "{slug}"
+CATEGORY_SAVE_AS = "{slug}/index.html"
+
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

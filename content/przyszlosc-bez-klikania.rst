@@ -3,7 +3,6 @@ Przyszłość bez klikania
 :date: 2008-11-03 08:15
 :author: Hrv
 :category: Internet
-:tags: interface
 :slug: przyszlosc-bez-klikania
 
 [caption id="attachment\_335" align="alignright" width="300"

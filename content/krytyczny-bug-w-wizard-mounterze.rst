@@ -2,7 +2,7 @@ Krytyczny Bug w Wizard Mounterze!
 #################################
 :date: 2009-03-07 15:46
 :author: Hrv
-:tags: maemo, NFS, samba
+:tags: maemo, samba
 :slug: krytyczny-bug-w-wizard-mounterze
 
 Jak to zwykle w życiu bywa po odrobinie słodyczy, nadchodzi całe wiadro
