@@ -26,9 +26,10 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (('twitter', 'http://twitter.com/harvpl'),
           ('github', 'http://github.com/marcinu'),)
 
-DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = 6
 
-ARTICLE_URL = '/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
+ARTICLE_URL = '/blog/{slug}.html'
+#ARTICLE_URL = '/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
