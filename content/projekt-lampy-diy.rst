@@ -2,7 +2,6 @@ Projekt lampy DIY
 #################
 :date: 2009-05-21 22:47
 :author: Hrv
-:category: Na luzie, nowe graty, projekty
 :tags: diy
 :slug: projekt-lampy-diy
 

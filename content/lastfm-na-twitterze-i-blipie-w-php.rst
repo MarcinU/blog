@@ -3,7 +3,7 @@ Last.fm na Twitterze i Blipie w PHP
 :date: 2008-11-23 10:04
 :author: Hrv
 :category:  Internet
-:tags: Blip, Last.fm, php, Twitter
+:tags: Blip, Last.fm, Twitter
 :slug: lastfm-na-twitterze-i-blipie-w-php
 
 Jakiś czas temu opublikowałem `swoją wersję

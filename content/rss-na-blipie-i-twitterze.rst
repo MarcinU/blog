@@ -3,7 +3,7 @@ RSS na Blipie i Twitterze
 :date: 2008-11-11 20:13
 :author: Hrv
 :category: Internet
-:tags: Blip, rss, ruby, Twitter, how-to
+:tags: Blip,  Twitter, how-to
 :slug: rss-na-blipie-i-twitterze
 
 Idąc za ciosem, skoro `udostępniłem skrypt łączący profil z last.fm z
