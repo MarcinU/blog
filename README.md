@@ -1,2 +1,5 @@
-My blog repo
+## My blog repo
 ##############
+
+Just for the pupose of my blog - http://harv.pl
+
