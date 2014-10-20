@@ -32,11 +32,17 @@ ARTICLE_URL = 'blog/{slug}.html'
 ARTICLE_SAVE_AS= 'blog/{slug}.html'
 CATEGORY_URL = "{slug}"
 CATEGORY_SAVE_AS = "{slug}/index.html"
-
+#OUTPUT_PATH = '/home/macdrifter/webapps/pelican/'
 
 #PLUGINS
 PLUGIN_PATHS = ["/home/harv/blog/plugins/pelican-plugins"]
-PLUGINS = ["html_rst_directive", "pelican_gist", "summary"]
+PLUGINS = ["html_rst_directive", "pelican_gist", "summary","better_figures_and_images"]
+
+
+# Setting for the better_figures_and_images plugin
+RESPONSIVE_IMAGES = True
+# Setting for the better_figures_and_images plugin
+FIGURE_NUMBERS = True
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
