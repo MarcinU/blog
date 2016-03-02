@@ -3,13 +3,13 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Hrv'
-SITENAME = '$ cat /dev/Hrv'
+SITENAME = 'cat /dev/Hrv'
 SITEURL = 'http://harv.pl'
 
 PATH = 'content'
 STATIC_PATHS = ['images','uploads','extra/my.css']
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Warsaw'
 
 DEFAULT_LANG = 'pl'
 
@@ -33,10 +33,11 @@ ARTICLE_SAVE_AS= 'blog/{slug}.html'
 CATEGORY_URL = "{slug}"
 CATEGORY_SAVE_AS = "{slug}/index.html"
 #OUTPUT_PATH = '/home/macdrifter/webapps/pelican/'
+DEFAULT_CATEGORY = 'blog'
 
 #PLUGINS
 PLUGIN_PATHS = ["/home/harv/blog/plugins/pelican-plugins"]
-PLUGINS = ["html_rst_directive", "pelican_gist", "summary","better_figures_and_images"]
+PLUGINS = ["html_rst_directive", "pelican_gist", "summary","better_figures_and_images", "tag_cloud"]
 
 
 # Setting for the better_figures_and_images plugin
@@ -58,7 +59,7 @@ DISPLAY_TAGS_INLINE = True
 
 BOOTSTRAP_NAVBAR_INVERSE = True
 DISPLAY_BREADCRUMBS = True
-PYGMENTS_STYLE = 'vim'
+PYGMENTS_STYLE = 'default'
 
 EXTRA_PATH_METADATA = {
     'extra/my.css': {'path': 'static/my.css'}

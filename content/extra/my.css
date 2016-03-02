@@ -57,3 +57,17 @@ img.align-right {
 
     float: left;
 }
+
+.strike {
+  text-decoration: line-through;
+}
+
+a.external {
+//	text-decoration: underline;
+border-bottom: 1px dashed #999;
+}
+
+a.external:hover {
+//	text-decoration: underline;
+border-bottom: 1px solid #999;
+}
