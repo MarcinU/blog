@@ -32,11 +32,10 @@ ARTICLE_URL = 'blog/{slug}.html'
 ARTICLE_SAVE_AS= 'blog/{slug}.html'
 CATEGORY_URL = "{slug}"
 CATEGORY_SAVE_AS = "{slug}/index.html"
-#OUTPUT_PATH = '/home/macdrifter/webapps/pelican/'
 DEFAULT_CATEGORY = 'blog'
 
 #PLUGINS
-PLUGIN_PATHS = ["/home/harv/blog/plugins/pelican-plugins"]
+PLUGIN_PATHS = ["plugins/pelican-plugins"]
 PLUGINS = ["html_rst_directive", "pelican_gist", "summary","better_figures_and_images", "tag_cloud"]
 
 
@@ -49,7 +48,7 @@ FIGURE_NUMBERS = True
 #RELATIVE_URLS = True
 
 #THEME 
-THEME = '/home/harv/blog/themes/pelican-bootstrap3'
+THEME = 'themes/pelican-bootstrap3'
 GITHUB_URL = 'http://github.com/MarcinU/'
 
 TYPOGRIFY = True
