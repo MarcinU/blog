@@ -49,7 +49,7 @@ FIGURE_NUMBERS = True
 
 #THEME 
 THEME = 'themes/pelican-bootstrap3'
-GITHUB_URL = 'http://github.com/MarcinU/'
+GITHUB_URL = 'https://github.com/muracz/'
 
 TYPOGRIFY = True
 TAG_CLOUD_STEPS = 4
