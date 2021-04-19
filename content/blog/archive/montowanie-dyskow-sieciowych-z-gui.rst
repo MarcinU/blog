@@ -7,7 +7,7 @@ Montowanie dysków sieciowych z GUI
 
 Aż dziw bierze, że nikt nie ochrzanił mnie za marny research przed
 napisaniem mojego `ostatniego posta o montowaniu dysków sieciowych z
-autoryzacją </blog/montowanie-dyskow-sieciowych-z-autoryzacja-na-memo/>`_.
+autoryzacją <http://harv.pl/blog/montowanie-dyskow-sieciowych-z-autoryzacja-na-memo.html>`_.
 Dopiero przed chwilą, wpadłem i przetestowałem `Wizard
 Mounter <https://garage.maemo.org/projects/wizard-mounter/>`_. Program
 ten ma za zadanie ułatwić nam montowanie różnego rodzajów zasobów
@@ -40,7 +40,4 @@ Wizard Mounter <https://garage.maemo.org/frs/?group_id=444>`_,
 uruchamiamy w Application managerze i cieszymy się bezproblemowym,
 łatwym w obsłudze montowaniem zasobów sieciowych.
 
-**Przeczytaj też koniecznie o `krytycznym
-bugu <http://www.harv.pl/2009/03/krytyczny-bug-w-wizard-mounterze/>`_ w
-tej aplikacji!!**
 

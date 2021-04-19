@@ -18,5 +18,12 @@ W ten oto sposób jesteśmy w stanie z każdej maszyny z zainstalowanym docker-e
 
 .. code-block:: bash
 
-	docker run -i -v [ścieżka/do/plików/pelicana]:/blog harv/pelican-alpine
+	docker run -i --name pelican-render -v [ścieżka/do/plików/pelicana]:/blog harv/pelican-alpine
+
+Jeśli pozostaniemy wierni ścieżkom jakie podaliśmy w komendzie wyżej. Przy następnych aktualizacjach wystarczy:
+
+.. code-block:: bash
+
+	docker start pelican-render
+
 

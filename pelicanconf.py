@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Hrv'
 SITENAME = 'cat /dev/Hrv'
-SITEURL = 'http://harv.pl'
+SITEURL = '//harv.pl'
 
 PATH = 'content'
 STATIC_PATHS = ['images','uploads','extra/my.css']
